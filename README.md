@@ -15,9 +15,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoussaibaZaoui&theme=radical" alt="GitHub Streak Stats" />
-</p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NoussaibaZaoui&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+ 
+
 
 ---
 
@@ -47,13 +48,13 @@
 ### 📂 Featured Projects  
 Here are some of my recent projects:  
 
-- **[Project 1 Name](#)**  
-  _Description: A short overview of what the project does._  
-  Tech Stack: `Java`, `Angular`, `Docker`  
+- **[ElevateUMP](https://github.com/Noussaiba-Zaoui/ElevateUMP)**  
+  _Development of a web application for project management within P2E._ 
+  Tech Stack: `Java 17`, `Spring Boot`, `Docker`,`ReactJs 18` ,`figma`
 
-- **[Project 2 Name](#)**  
-  _Description: A brief summary of this project._  
-  Tech Stack: `C#`, `.NET`, `ReactJS`  
+- **[Project 2 Name](https://github.com/Noussaiba-Zaoui/E-SHOP-MICROSERVICE/tree/master)**  
+  _ Development and deployment of a microservices architecture._  
+  Tech Stack: `Java 17`, `Spring Boot`, `Angular `  ,`Docker`,`Kubernetes`
 
 ---
 
