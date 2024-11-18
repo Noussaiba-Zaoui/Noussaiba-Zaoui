@@ -26,6 +26,9 @@
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   </a>
+  <a href="https://junit.org/junit5/" target="_blank">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=Java&logoColor=white" alt="JUnit" />
+</a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
