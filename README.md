@@ -15,13 +15,6 @@
 
 ---
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NoussaibaZaoui&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
- 
-
-
----
-
 ### 👩‍💻 About Me
 - 🔭 **I am currently a final-year software engineering student at ENSAO.**  
 - 🌱 **I enjoy creating scalable web applications using cutting-edge technologies.**  
@@ -72,10 +65,11 @@ Here are some of my recent projects:
 
 ### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoussaibaZaoui&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoussaibaZaoui&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noussaiba-Zaoui&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noussaiba-Zaoui&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ✨ Thanks for visiting my profile! Let’s build amazing things together! ✨
+
