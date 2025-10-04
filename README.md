@@ -117,7 +117,6 @@ Here are some of my recent projects:
 
 ### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noussaiba-Zaoui&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noussaiba-Zaoui&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
