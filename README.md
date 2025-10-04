@@ -55,14 +55,17 @@
 
 ---
 
+👋 About Me
+
+
+
 ### 👩‍💻 About Me
-- 🔭 **I am currently a final-year software engineering student at ENSAO.**  
-- 🌱 **I enjoy creating scalable web applications using cutting-edge technologies.**  
-- 🚀 **I’m actively seeking a 4–6 month end-of-study internship in software engineering.**  
+- 🔭 **Currently working as a Software Engineer at CDG Capital.**  
+🌱  **I completed a 6-month internship as a Salesforce Consultant at Deloitte, where I developed customized solutions and streamlined business processes using Sales Cloud and CPQ**
+- 🚀 **Always eager to explore new technologies, from microservices and containerization to Salesforce integrations and automation.**  
 - 💬 **I love sharing knowledge and collaborating with others! Feel free to connect.**  
 
 ---
-
 ### 🛠️ Technical Skills
 **Frontend:**  
 `JavaScript`, `HTML`, `CSS`, `Angular`, `ReactJS`  
@@ -75,6 +78,9 @@
 
 **Microservices & DevOps:**  
 `Docker`, `Kubernetes`  
+
+**Salesforce Ecosystem:**
+Sales Cloud, CPQ, Apex (Triggers, Classes, Tests), Lightning Web Components (LWC), Flows, Validation Rules, SOQL, REST API, Connected Apps, Named Credentials, S-Docs, Change Sets, Agile/Scrum
 
 ---
 
