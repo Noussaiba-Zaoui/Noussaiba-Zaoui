@@ -1,7 +1,25 @@
 <h1 align="center">Hi 👋, I'm Noussaiba Zaoui</h1>
-<h3 align="center">A passionate Full-Stack Developer looking for an end-of-study internship!</h3>
+<h3 align="center">A passionate Full-Stack Developer !</h3>
+
+
+
 
 <p align="center">
+
+
+  <a href="https://trailhead.salesforce.com" target="_blank">
+  <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Trailhead" />
+</a>
+
+<a href="https://www.salesforce.com/products/platform/overview/" target="_blank">
+  <img src="https://img.shields.io/badge/Salesforce%20Platform-1798c1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Platform" />
+</a>
+
+<a href="https://trailhead.salesforce.com/credentials/aiassociate" target="_blank">
+  <img src="https://img.shields.io/badge/AI%20Associate-CB1A6D?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce AI Associate" />
+</a>
+
+
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
