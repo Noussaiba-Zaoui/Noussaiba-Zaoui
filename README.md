@@ -84,8 +84,14 @@ Sales Cloud, CPQ, Apex (Triggers, Classes, Tests), Lightning Web Components (LWC
 
 ---
 
+
+
 ### 📂 Featured Projects  
 Here are some of my recent projects:  
+
+**[E-SHOP-MICROSERVICES](https://github.com/Noussaiba-Zaoui/E-SHOP-MICROSERVICE/tree/master)**  
+  _Development of a microservice web application.
+  Tech Stack: `Spring Boot, Spring Cloud,Keycloak,Docker, Kubernetes,Kafka,Grafana,Resilience4J,Angular`
 
 - **[ElevateUMP](https://github.com/Noussaiba-Zaoui/ElevateUMP)**  
   _Development of a web application for project management within P2E._ 
